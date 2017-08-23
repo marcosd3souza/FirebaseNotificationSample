@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/marcos/.android/build-cache/0c1a02f06e75d5fd495b15f2ba134c80c3672eb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/marcos/RepositoriosDS/learning/app/build/intermediates/pre-dexed/debug/classes_61c75d9f03033c94d6a6eebdc1a41782466b0467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcos/.android/build-cache/cedf1c534578d04be8696f445f1b993542888648/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/marcos/RepositoriosDS/learning/app/build/intermediates/pre-dexed/debug/classes_4cb12b0ba8860090f0ec0318830f4c0300796426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcos/.android/build-cache/352d9beee0f4e1e12b93a5ab3ddd63cedf045448/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/marcos/RepositoriosDS/learning/app/build/intermediates/pre-dexed/debug/classes_017d38d8d9a12a5a6ab1f5e9f7914c7490858bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcos/.android/build-cache/3b1587676195946d39ca0ed25bbb959000543655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/marcos/RepositoriosDS/learning/app/build/intermediates/pre-dexed/debug/classes_4b4e9d2e318c7e30687649d963731027e08abe96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcos/.android/build-cache/cc7d1b0828b00ef33f2f79ad1c2ac4955ad1ea9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/marcos/RepositoriosDS/learning/app/build/intermediates/pre-dexed/debug/classes_15ae21a3183adb4be06d828e0b70e6064787c8ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcos/.android/build-cache/ff8d9e1fe5acb69f82935ea21bb416bcac1ed350/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/marcos/RepositoriosDS/learning/app/build/intermediates/pre-dexed/debug/classes_edf4c4647f28b9996d3756373a54374ece08cf38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcos/.android/build-cache/d9509ab0c6d60412c7697f559805eb08dbb57496/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/marcos/RepositoriosDS/learning/app/build/intermediates/pre-dexed/debug/classes_217fe5583ea4a0e15854c89b0dbbf356102a841a.jar" />
+    </item>
+
+</items>
