@@ -14,6 +14,11 @@ public class ApplicationApp extends Application {
     public void onCreate() {
         super.onCreate();
 
-        Log.i("my device Token", FirebaseInstanceId.getInstance().getToken());
+        String token = FirebaseInstanceId.getInstance().getToken();
+
+        if(token != null){
+
+            Log.i("my device Token",token);
+        }
     }
 }
